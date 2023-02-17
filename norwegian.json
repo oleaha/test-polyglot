@@ -1,0 +1,31 @@
+{
+  "translations": {
+    "a_category_must_be_followed_by_id_or_a_spacer": "En kategori må bli etterfulgt av en ID eller et symbol",
+    "a_field": "et felt",
+    "a_meta_data_field_can_not_contain_[]_or_:": "et metadata felt kan ikke inneholde [,] eller :",
+    "a_new_version_is_available": "En ny versjon er tilgjengelig",
+    "a_unique_field_can_only_be_used_once": "et unikt felt kan bare bli brukt en gang",
+    "abort": "Avbryte",
+    "absent": "Fravær",
+    "accepted": "Akseptert",
+    "access": "Tilgang",
+    "access_expire": "Tilgang utløper",
+    "access_limited": "Tilgang begrenset",
+    "access_to_baselining": "Tilgang til å sette ny baseline",
+    "access_to_meeting": "Tilgang til møte",
+    "access_to_meeting_module": "Tilgang til møtemodul",
+    "access_to_project_risk": "Tilgang til prosjektrisiko",
+    "access_to_suggestions_for_improvement": "Tilgang til forbedringsforslag",
+    "access_url_copied_to_clipboard": "Tilgangs-URL kopiert til utklippstavle",
+    "accumulated_completed": "Akkumulert fullført {{type}}",
+    "accumulated_not_performed": "Akkumulert ikke utført {{type}}",
+    "accumulated_planned": "Akkumulert planlagt {{type}}",
+    "accumulated_staffing": "Akkumulert bemanning",
+    "accumulated_working_hours": "Akkumulert arbeidstimer",
+    "action_list_for": "Aksjonsliste for",
+    "action_name": "Aksjonsnavn",
+    "action_table": "Aksjonstabell",
+    "action_type": "aksjonstype",
+    "action_types": "aksjonstyper"
+  }
+}
